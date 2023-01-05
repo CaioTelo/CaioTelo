@@ -24,7 +24,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
 ![Git](https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git)
-![pgAdmin](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-323330?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-323330?style=for-the-badge)
 ![SoapUi](https://img.shields.io/badge/SoapUi-323330?style=for-the-badge)
