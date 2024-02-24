@@ -2,8 +2,7 @@
  
 <header> 
   <h1>👋 Olá, seja muito bem vindo!</h1>
-  <p>Me chamo <strong>Caio Telo</strong> e sou desenvolvedor PHP há pouco mais de 2 anos.</p>
-   <p>Atualmente, estou estudando Design Pattern com o PHP na Alura. </p>
+  <p>Me chamo <strong>Caio Telo</strong> e sou desenvolvedor PHP/React.js há pouco mais de 2 anos.</p>
 </header>
 
 <h2> 👨‍💻 Skills</h2>
