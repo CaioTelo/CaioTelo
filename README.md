@@ -2,7 +2,7 @@
  
 <header> 
   <h1>👋 Olá, seja muito bem vindo!</h1>
-  <p>Me chamo <strong>Caio Telo</strong> e sou desenvolvedor PHP/React.js há pouco mais de 2 anos.</p>
+  <p>Me chamo <strong>Caio Telo</strong> e sou desenvolvedor PHP/React.js há pouco mais de 5 anos.</p>
 </header>
 
 <h2> 👨‍💻 Skills</h2>
