@@ -1,5 +1,3 @@
-# CaioTelo
- 
 <h1 align="center">👋 Olá, eu sou o Caio Telo!</h1>
 
 <h3 align="center">Desenvolvedor Full Stack | PHP • PostgreSQL • React • Next.js</h3>
